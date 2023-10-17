@@ -1,4 +1,4 @@
-[![MasterHead]https://camo.githubusercontent.com/b1247b1acd44b31b0e457ea5bec2e755a69f2d3227e6a596cc807394db8541c8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33382f37652f34662f33383765346635323038316266656264366261393664396437383465396639342e676966](https://github.com/priyanshuuranjan)
+[![MasterHead](https://github.com/priyanshuuranjan)
 <h1 align="center">Hi 👋, I'm Priyanshu 👩🏾‍💻</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/> 
