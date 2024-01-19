@@ -1,6 +1,12 @@
  <img src="https://camo.githubusercontent.com/b1247b1acd44b31b0e457ea5bec2e755a69f2d3227e6a596cc807394db8541c8/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f33382f37652f34662f33383765346635323038316266656264366261393664396437383465396639342e676966" />
 <h1 align="center">Hi 👋, I'm Priyanshu 👩🏾‍💻</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
+<p align="center">
+
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer;Always+Learning+New+Things;Please+Do+Not+Hesitate+To+Open+An+Issue+Or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
+
+</p>
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshuuranjan&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshuuranjan" /> </p>
