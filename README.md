@@ -4,6 +4,8 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1080&center=true&lines=Welcome+To+My+Github+Profile;Full-Stack+Web+Developer;Always+Learning+New+Things;Please+Do+Not+Hesitate+To+Open+An+Issue+Or+Submit+A+Pull+Request.)](https://git.io/typing-svg)
 
+[![An image of @priyanshuuranjan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshuuranjan)](https://holopin.io/@priyanshuuranjan)
+
 </p>
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/> 
 
